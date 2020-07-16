@@ -1,0 +1,28 @@
+Purpose     Circut  Network
+            board   Cable
+----------------------------------        
+Button      Purple  Orange
+Gate        Blue    Orange/White
+Door Button Green   Green  
++7          Black   Blue
+Ground      White   Blue/White
+Camera      Orange  Green/White
+Horn        Grey    Brown
+????        Yellow  Brown/White
+
+Inputs use +7 to Pin
+Relay the coil is going to draw 71mA.
+
+Sonic alerts connect Camera 
+
+
+-------------------------------------------------------
+Board   Purpose       Cable 
+*1       Ground        Blue
+*2       +7 volt       Blue/White
+*3       Camera        Green/White
+*4       Door bell     Green
+*5       Extra         Brown/White
+*6       Gate sensor   Orange/White
+*7       Gate button   Orange
+

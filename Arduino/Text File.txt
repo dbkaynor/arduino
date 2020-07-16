@@ -1,0 +1,19 @@
+// comm input  D11
+#define varResistor1 0     // Analog input A0
+#define varResistor2 1     // Analog input A1
+
+#define PIN 8              // Data out pin for LED string
+#define hexSwitch1 9       // hex switch definitions
+#define hexSwitch2 10      // hex switch definitions
+#define hexSwitch4 11      // hex switch definitions
+#define hexSwitch8 12      // hex switch definitions
+           
+#define txPin 12           // comm output D12
+#define rxPin 11           // comm input  D11
+---------------------------------------------------------
+LCD RS pin to digital pin 12
+LCD En pin to digital pin 11
+LCD D4 pin to digital pin 5
+LCD D5 pin to digital pin 4
+LCD D6 pin to digital pin 3
+LCD D7 pin to digital pin 2

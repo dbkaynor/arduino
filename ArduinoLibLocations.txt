@@ -1,0 +1,15 @@
+
+~ $:sudo find / -name Adafruit_NeoPixel.h
+find: ‘/run/user/1000/gvfs’: Permission denied
+/home/doug/dbkaynor@gmail.com/DougArduino/DougArduino/NeoPixel/Adafruit_NeoPixel.h
+/home/doug/dbkaynor@gmail.com/DougArduino/DougArduino/Adafruit_NeoPixel.h
+/home/doug/dbkaynor@gmail.com/DougArduino/DougArduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.h
+/home/doug/dbkaynor@gmail.com/DougArduino/DougArduino/libraries/arduino_721652/Adafruit_NeoPixel.h
+/home/Arduino/libraries/Adafruit_NeoPixel/Adafruit_NeoPixel.h
+
+
+
+https://forum.arduino.cc/index.php?topic=378506.0
+
+https://bitbucket.org/fmalpartida/new-liquidcrystal/downloads/
+https://bitbucket.org/fmalpartida/new-liquidcrystal/wiki/Home

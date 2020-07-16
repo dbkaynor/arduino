@@ -1,0 +1,2 @@
+http://howtomechatronics.com/tutorials/arduino/rotary-encoder-works-use-arduino/
+http://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/
